@@ -1,7 +1,7 @@
 # 👋 Ciao, sono Armando Imbimbo
 
-🎓 Laureato in Informatica\
-💻 Software Developer \| Web Developer\
+🎓 Laureato in Informatica L-31\
+🎓 Laurea Magistrale in Sicurezza Informatica e Tecnologie Cloud LM-66 (in corso)\
 📍 Avellino, Italia
 
 ------------------------------------------------------------------------
@@ -26,7 +26,7 @@ nuove sfide per migliorare le mie competenze.
 ```{=html}
 <p align="left">
 ```
-`<img src="https://skillicons.dev/icons?i=c,python,java,html" />`{=html}
+`<img src="https://icons8.it/icons/set/python" />`{=html}
 ```{=html}
 </p>
 ```
@@ -147,10 +147,3 @@ mio percorso universitario.
 👉 **Visita il mio GitHub:**\
 https://github.com/Armando9889
 
-------------------------------------------------------------------------
-
-## 📈 Obiettivo
-
-Sono alla ricerca di opportunità come **Junior Developer** per crescere
-professionalmente, contribuire a progetti reali e continuare ad
-apprendere nuove tecnologie.
