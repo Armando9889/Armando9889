@@ -34,9 +34,8 @@ nuove sfide per migliorare le mie competenze.
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js"/>
-</p>
-<p></p>
 -   Frontend Development
+</p>
 -   Backend Development
 
 ------------------------------------------------------------------------
@@ -58,7 +57,7 @@ nuove sfide per migliorare le mie competenze.
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=windows,android" />`{=html}
+<img src="https://skillicons.dev/icons?i=windows,android" />
 </p>
 
 ------------------------------------------------------------------------
