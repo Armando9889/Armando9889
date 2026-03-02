@@ -33,17 +33,16 @@ nuove sfide per migliorare le mie competenze.
 ### 🌐 Sviluppo Web
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
 </p>
--   Frontend Development\
+<p></p>
+-   Frontend Development
 -   Backend Development
 
 ------------------------------------------------------------------------
 
 ### 📱 Sviluppo Mobile
-<p align="left">
-<img src="https://skillicons.dev/icons?i=android" />
-</p>
+[![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 
 ------------------------------------------------------------------------
 
