@@ -53,10 +53,10 @@ nuove sfide per migliorare le mie competenze.
 ## 🎓 Formazione
 
 **Laurea Triennale in Informatica (L-31)**\
-📍 Università degli Studi di Salerno\
+📍 Università degli Studi di Salerno
 
 **Diploma - Sistemi Informativi Aziendali (SIA)**\
-📍 Istituto Tecnico Economico "Luigi Amabile"\
+📍 Istituto Tecnico Economico "Luigi Amabile"
 
 ------------------------------------------------------------------------
 
