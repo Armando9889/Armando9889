@@ -50,15 +50,6 @@ nuove sfide per migliorare le mie competenze.
 
 ------------------------------------------------------------------------
 
-### 🖥️ Sistemi Operativi
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=windows,android" />
-</p>
-
-------------------------------------------------------------------------
-
 ## 🎓 Formazione
 
 **Laurea Triennale in Informatica (L-31)**\
@@ -71,11 +62,11 @@ nuove sfide per migliorare le mie competenze.
 
 ## 🤝 Soft Skills
 
--   👥 Lavoro in team\
--   🗣️ Comunicazione chiara\
--   💡 Condivisione di idee\
--   📊 Organizzazione del lavoro\
--   ⏱️ Gestione delle scadenze\
+-   👥 Lavoro in team
+-   🗣️ Comunicazione chiara
+-   💡 Condivisione di idee
+-   📊 Organizzazione del lavoro
+-   ⏱️ Gestione delle scadenze
 -   🧠 Problem solving
 
 ------------------------------------------------------------------------
