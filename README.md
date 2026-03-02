@@ -42,14 +42,6 @@ nuove sfide per migliorare le mie competenze.
 
 ------------------------------------------------------------------------
 
-### 🧰 Strumenti e Tecnologie
-<p align="left">
-<img src="https://skillicons.dev/icons?i=eclipse" />
-<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-</p>
-
-------------------------------------------------------------------------
-
 ## 🎓 Formazione
 
 **Laurea Triennale in Informatica (L-31)**\
