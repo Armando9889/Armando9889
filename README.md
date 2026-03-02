@@ -33,7 +33,7 @@ nuove sfide per migliorare le mie competenze.
 ### 🌐 Sviluppo Web
 
 <p align="left">
-`<img src="https://skillicons.dev/icons?i=html,css,js" />`{=html}
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 -   Frontend Development\
 -   Backend Development
@@ -42,15 +42,15 @@ nuove sfide per migliorare le mie competenze.
 
 ### 📱 Sviluppo Mobile
 <p align="left">
-<img src="https://skillicons.dev/icons?i=android" />`{=html}
+<img src="https://skillicons.dev/icons?i=android" />
 </p>
 
 ------------------------------------------------------------------------
 
 ### 🧰 Strumenti e Tecnologie
 <p align="left">
-<img src="https://skillicons.dev/icons?i=eclipse" />`{=html}
-<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>`{=html}
+<img src="https://skillicons.dev/icons?i=eclipse" />
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 </p>
 
 ------------------------------------------------------------------------
