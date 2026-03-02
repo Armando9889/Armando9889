@@ -25,9 +25,6 @@ nuove sfide per migliorare le mie competenze.
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,python,java,html" />
-</p>
-
-<p align="left">
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
@@ -35,52 +32,35 @@ nuove sfide per migliorare le mie competenze.
 
 ### 🌐 Sviluppo Web
 
-```{=html}
 <p align="left">
-```
 `<img src="https://skillicons.dev/icons?i=html,css,js" />`{=html}
-```{=html}
 </p>
-```
 -   Frontend Development\
 -   Backend Development
 
 ------------------------------------------------------------------------
 
 ### 📱 Sviluppo Mobile
-
-```{=html}
 <p align="left">
-```
-`<img src="https://skillicons.dev/icons?i=android" />`{=html}
-```{=html}
+<img src="https://skillicons.dev/icons?i=android" />`{=html}
 </p>
-```
 
 ------------------------------------------------------------------------
 
 ### 🧰 Strumenti e Tecnologie
-
-```{=html}
 <p align="left">
-```
-`<img src="https://skillicons.dev/icons?i=eclipse" />`{=html}
-`<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>`{=html}
-```{=html}
+<img src="https://skillicons.dev/icons?i=eclipse" />`{=html}
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>`{=html}
 </p>
-```
 
 ------------------------------------------------------------------------
 
 ### 🖥️ Sistemi Operativi
 
-```{=html}
 <p align="left">
-```
-`<img src="https://skillicons.dev/icons?i=windows,android" />`{=html}
-```{=html}
+
+<img src="https://skillicons.dev/icons?i=windows,android" />`{=html}
 </p>
-```
 
 ------------------------------------------------------------------------
 
@@ -88,13 +68,9 @@ nuove sfide per migliorare le mie competenze.
 
 **Laurea Triennale in Informatica (L-31)**\
 📍 Università degli Studi di Salerno\
-📅 2019 -- 2024\
-🎯 Voto: 92/110
 
 **Diploma - Sistemi Informativi Aziendali (SIA)**\
 📍 Istituto Tecnico Economico "Luigi Amabile"\
-📅 2012 -- 2017\
-🎯 Voto: 73/100
 
 ------------------------------------------------------------------------
 
@@ -109,26 +85,11 @@ nuove sfide per migliorare le mie competenze.
 
 ------------------------------------------------------------------------
 
-## 🌍 Lingue
-
--   🇮🇹 Italiano (Madrelingua)\
--   🇬🇧 Inglese (B1)
-
-------------------------------------------------------------------------
-
-## 🧠 Altre Competenze
-
--   ✏️ Disegno tecnico\
--   🥋 Karate agonistico (5 anni)\
--   🏉 Esperienza nel rugby
-
-------------------------------------------------------------------------
-
 ## 📫 Contatti
 
-📧 Email: armandoimbimbo9889@gmail.com\
-💼 LinkedIn: https://www.linkedin.com/in/armando-imbimbo-308753239\
-💻 GitHub: https://github.com/Armando9889
+[![Email](https://img.shields.io/badge/Email-armandoimbimbo9889@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armandoimbimbo9889@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Armando_Imbimbo-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armando-imbimbo-308753239)
 
 ------------------------------------------------------------------------
 
