@@ -87,9 +87,14 @@ nuove sfide per migliorare le mie competenze.
 
 ## 📫 Contatti
 
-[![Email](https://img.shields.io/badge/Email-armandoimbimbo9889@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armandoimbimbo9889@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Armando_Imbimbo-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armando-imbimbo-308753239)
+<p align="center">
+  <a href="mailto:armandoimbimbo9889@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/armando-imbimbo-308753239">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 ------------------------------------------------------------------------
 
