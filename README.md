@@ -81,6 +81,4 @@ nuove sfide per migliorare le mie competenze.
 Nel mio profilo GitHub sono disponibili i progetti sviluppati durante il
 mio percorso universitario.
 
-👉 **Visita il mio GitHub:**\
-https://github.com/Armando9889
 
