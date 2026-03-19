@@ -25,7 +25,6 @@ nuove sfide per migliorare le mie competenze.
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,python,java,html" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ------------------------------------------------------------------------
