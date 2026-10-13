@@ -1,7 +1,7 @@
 # 👋 Ciao, sono Armando Imbimbo
 
-🎓 Laureato in Informatica L-31\
 🎓 Laurea Magistrale in Sicurezza Informatica e Tecnologie Cloud LM-66 (in corso)\
+🎓 Laureato in Informatica L-31\
 📍 Avellino, Italia
 
 ------------------------------------------------------------------------
