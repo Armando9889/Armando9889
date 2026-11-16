@@ -7,7 +7,7 @@
 # 🎓 Istruzione
 🎓 Laurea Magistrale in Sicurezza Informatica e Tecnologie Cloud LM-66 (in corso)\
 🎓 Laureato in Informatica L-31\
- Diploma - Sistemi Informativi Aziendali (SIA)\
+📖 Diploma - Sistemi Informativi Aziendali (SIA)\
 📍 Avellino, Italia
 
 ------------------------------------------------------------------------
