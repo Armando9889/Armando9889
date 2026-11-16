@@ -7,6 +7,7 @@
 # 🎓 Istruzione
 🎓 Laurea Magistrale in Sicurezza Informatica e Tecnologie Cloud LM-66 (in corso)\
 🎓 Laureato in Informatica L-31\
+ Diploma - Sistemi Informativi Aziendali (SIA)\
 📍 Avellino, Italia
 
 ------------------------------------------------------------------------
@@ -43,16 +44,6 @@ nuove sfide per migliorare le mie competenze.
 
 ### 📱 Sviluppo Mobile
 [![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
-
-------------------------------------------------------------------------
-
-## 🎓 Formazione
-
-**Laurea Triennale in Informatica (L-31)**\
-📍 Università degli Studi di Salerno
-
-**Diploma - Sistemi Informativi Aziendali (SIA)**\
-📍 Istituto Tecnico Economico "Luigi Amabile"
 
 ------------------------------------------------------------------------
 
