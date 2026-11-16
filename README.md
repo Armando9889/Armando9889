@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/projects.svg"
+  <img src="assets/projectsnew.svg"
        alt="My latest GitHub projects"
        width="900">
 </p>
