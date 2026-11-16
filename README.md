@@ -1,10 +1,10 @@
+# 👋 Ciao, sono Armando Imbimbo
+
 <p align="center">
   <img src="assets/projects.svg"
        alt="My latest GitHub projects"
        width="900">
 </p>
-
-# 👋 Ciao, sono Armando Imbimbo
 
 🎓 Laurea Magistrale in Sicurezza Informatica e Tecnologie Cloud LM-66 (in corso)\
 🎓 Laureato in Informatica L-31\
