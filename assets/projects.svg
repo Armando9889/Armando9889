@@ -39,9 +39,6 @@
     <text x="85" y="275" fill="#f8fafc">GLTSegnaletica</text>
     <text x="85" y="298" fill="#94a3b8" font-size="12">University project</text>
 
-    <text x="30" y="340" fill="#60a5fa">[04]</text>
-    <text x="85" y="340" fill="#f8fafc">Progetto_TSW</text>
-    <text x="85" y="363" fill="#94a3b8" font-size="12">Web Software Technologies</text>
   </g>
 
   <!-- Cursor animation -->
