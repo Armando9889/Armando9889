@@ -1,5 +1,5 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="290" viewBox="0 0 900 390">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="390" viewBox="0 0 900 390">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#111827"/>
@@ -30,15 +30,30 @@
     <text x="85" y="125" fill="#f8fafc" font-weight="bold">Guardrail</text>
     <text x="85" y="148" fill="#94a3b8" font-size="12">OpenStack Compliance &amp; Security Plugin</text>
     <text x="85" y="168" fill="#4ade80" font-size="12">Python | OpenStack | Nova | Neutron | Flask</text>
+     <a href="https://github.com/Armando9889/Guardrail">
+    <text x="85" y="340" fill="#f8fafc">HeartGuard</text>
+    </a>
 
     <text x="30" y="210" fill="#60a5fa">[02]</text>
-    <text x="85" y="210" fill="#f8fafc">Progetto_AI</text>
+    <text x="85" y="210" fill="#f8fafc">HeartGuard</text>
     <text x="85" y="233" fill="#94a3b8" font-size="12">Artificial Intelligence project</text>
+    <a href="https://github.com/Armando9889/Progetto_AI">
+    <text x="85" y="340" fill="#f8fafc">HeartGuard</text>
+    </a>
 
     <text x="30" y="275" fill="#60a5fa">[03]</text>
     <text x="85" y="275" fill="#f8fafc">GLTSegnaletica</text>
     <text x="85" y="298" fill="#94a3b8" font-size="12">University project</text>
+     <a href="https://github.com/suonatorefelice/GLTSegnaletica">
+    <text x="85" y="340" fill="#f8fafc">GLTSegnaletica</text>
+    </a>
 
+    <text x="30" y="340" fill="#60a5fa">[04]</text>
+    <text x="85" y="340" fill="#f8fafc">VeicHome</text>
+    <text x="85" y="363" fill="#94a3b8" font-size="12">Software Engineering | E-commerce | Auto &amp; Moto</text>
+    <a href="https://github.com/Armando9889/Armando9889-Progetto_Ingegneria_del_software">
+    <text x="85" y="340" fill="#f8fafc">VeicHome</text>
+    </a>
   </g>
 
   <!-- Cursor animation -->
