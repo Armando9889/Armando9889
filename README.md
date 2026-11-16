@@ -4,14 +4,6 @@
        width="900">
 </p>
 
-# 🎓 Istruzione
-🎓 Laurea Magistrale in Sicurezza Informatica e Tecnologie Cloud LM-66 (in corso)\
-🎓 Laureato in Informatica L-31\
-📖 Diploma - Sistemi Informativi Aziendali (SIA)\
-📍 Avellino, Italia
-
-------------------------------------------------------------------------
-
 ## 🚀 Chi sono
 
 Sono un laureato in Informatica con una forte passione per lo sviluppo
@@ -55,6 +47,14 @@ nuove sfide per migliorare le mie competenze.
 -   📊 Organizzazione del lavoro
 -   ⏱️ Gestione delle scadenze
 -   🧠 Problem solving
+
+------------------------------------------------------------------------
+
+# 🎓 Istruzione
+🎓 Laurea Magistrale in Sicurezza Informatica e Tecnologie Cloud LM-66 (in corso)\
+🎓 Laureato in Informatica L-31\
+📖 Diploma - Sistemi Informativi Aziendali (SIA)\
+📍 Avellino, Italia
 
 ------------------------------------------------------------------------
 
