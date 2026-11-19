@@ -75,6 +75,3 @@ nuove sfide per migliorare le mie competenze.
 
 Nel mio profilo GitHub sono disponibili i progetti sviluppati durante il
 mio percorso universitario.
-
-
- rendi questo readme più carino
